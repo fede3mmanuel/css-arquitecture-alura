@@ -1,6 +1,6 @@
-.recetas {
-    background-color: #dab997;
+.recetas{
+    background: #dab997;
     display: flex;
     flex-wrap: wrap;
-    padding: 5rem 0  0 5rem;
+    padding: 5rem 0 0 5rem;
 }
